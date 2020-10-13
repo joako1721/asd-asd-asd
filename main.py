@@ -13,7 +13,7 @@ ASDFAWSDFASDDFASDF = "HOLA AMIGO"
 #| '--------------' || '--------------' || '--------------' || '--------------' | | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
 # '----------------'  '----------------'  '----------------'  '----------------'   '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
 init()
-print(Style.DIM + "HOLA:D")
+print(Style.DIM + "HOLA QUE TAL :D")
 aaa = [Fore.RED, Fore.CYAN, Fore.GREEN, Fore.YELLOW, Fore.MAGENTA, Fore.WHITE]
 def ASDFASDFdfqwef():
     print(Fore.WHITE + "SELECCIONANDO COLOR")
